@@ -4,18 +4,18 @@
   text-align: center;
 }
 
-.text:link {
+a:link {
   color: black; 
 }
 
-.text:visited {
+a:visited {
   color: black;
 }
 
-.text:hover {
+a:hover {
   color: grey:
 }
 
-.textactive {
+a:active {
   color: black;
 }
