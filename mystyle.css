@@ -3,3 +3,19 @@
   font-family: 'Roboto Mono', serif;
   text-align: center;
 }
+
+.text:link {
+  color: black; 
+}
+
+.text:visited {
+  color: black;
+}
+
+.text:hover {
+  color: grey:
+}
+
+.textactive {
+  color: black;
+}
