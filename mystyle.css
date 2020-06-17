@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+.heading2 {
+  text-decoration: underline;
+}
+
 a:link {
   color: black; 
 }
