@@ -33,7 +33,7 @@ params:
         enabled: true
         title: "Hi I'm Gunnar." # optional default will be site title
         subtitle: "PhD Student, Causal Inference and XAI"
-        imageUrl: "/static/img/gunnar.jpg" # optional
+        imageUrl: "/static/img/main/gunnar.jpg" # optional
         imageTitle: "Gunnar" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
