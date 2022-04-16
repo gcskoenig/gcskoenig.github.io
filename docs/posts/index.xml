@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Gunnar König</title>
+    <link>https://gcskoenig.github.io/posts/</link>
+    <description>Recent content in Posts on Gunnar König</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Apr 2022 23:57:51 +0200</lastBuildDate><atom:link href="https://gcskoenig.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://gcskoenig.github.io/posts/test-copy-2/</link>
+      <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
+      
+      <guid>https://gcskoenig.github.io/posts/test-copy-2/</guid>
+      <description>Hello was geht Hello 1, 2, 3</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://gcskoenig.github.io/posts/test-copy-3/</link>
+      <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
+      
+      <guid>https://gcskoenig.github.io/posts/test-copy-3/</guid>
+      <description>Hello was geht Hello 1, 2, 3</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://gcskoenig.github.io/posts/test-copy-4/</link>
+      <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
+      
+      <guid>https://gcskoenig.github.io/posts/test-copy-4/</guid>
+      <description>Hello was geht Hello 1, 2, 3</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://gcskoenig.github.io/posts/test-copy-5/</link>
+      <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
+      
+      <guid>https://gcskoenig.github.io/posts/test-copy-5/</guid>
+      <description>Hello was geht Hello 1, 2, 3</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://gcskoenig.github.io/posts/test-copy-6/</link>
+      <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
+      
+      <guid>https://gcskoenig.github.io/posts/test-copy-6/</guid>
+      <description>Hello was geht Hello 1, 2, 3</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://gcskoenig.github.io/posts/test-copy-7/</link>
+      <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
+      
+      <guid>https://gcskoenig.github.io/posts/test-copy-7/</guid>
+      <description>Hello was geht Hello 1, 2, 3</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://gcskoenig.github.io/posts/test-copy/</link>
+      <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
+      
+      <guid>https://gcskoenig.github.io/posts/test-copy/</guid>
+      <description>Hello was geht Hello 1, 2, 3</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://gcskoenig.github.io/posts/test/</link>
+      <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
+      
+      <guid>https://gcskoenig.github.io/posts/test/</guid>
+      <description>Hello was geht Hello 1, 2, 3</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>https://gcskoenig.github.io/posts/post2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://gcskoenig.github.io/posts/post2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
