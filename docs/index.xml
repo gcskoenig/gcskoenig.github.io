@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gunnar König</title>
-    <link>https://gcskoenig.github.io/</link>
+    <link>https://www.gunnarkoenig.com/</link>
     <description>Recent content on Gunnar König</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2022 23:57:51 +0200</lastBuildDate><atom:link href="https://gcskoenig.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 23:57:51 +0200</lastBuildDate><atom:link href="https://www.gunnarkoenig.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://gcskoenig.github.io/posts/test-copy-2/</link>
+      <link>https://www.gunnarkoenig.com/posts/test-copy-2/</link>
       <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
       
-      <guid>https://gcskoenig.github.io/posts/test-copy-2/</guid>
+      <guid>https://www.gunnarkoenig.com/posts/test-copy-2/</guid>
       <description>Hello was geht Hello 1, 2, 3</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://gcskoenig.github.io/posts/test-copy-3/</link>
+      <link>https://www.gunnarkoenig.com/posts/test-copy-3/</link>
       <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
       
-      <guid>https://gcskoenig.github.io/posts/test-copy-3/</guid>
+      <guid>https://www.gunnarkoenig.com/posts/test-copy-3/</guid>
       <description>Hello was geht Hello 1, 2, 3</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://gcskoenig.github.io/posts/test-copy-4/</link>
+      <link>https://www.gunnarkoenig.com/posts/test-copy-4/</link>
       <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
       
-      <guid>https://gcskoenig.github.io/posts/test-copy-4/</guid>
+      <guid>https://www.gunnarkoenig.com/posts/test-copy-4/</guid>
       <description>Hello was geht Hello 1, 2, 3</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://gcskoenig.github.io/posts/test-copy-5/</link>
+      <link>https://www.gunnarkoenig.com/posts/test-copy-5/</link>
       <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
       
-      <guid>https://gcskoenig.github.io/posts/test-copy-5/</guid>
+      <guid>https://www.gunnarkoenig.com/posts/test-copy-5/</guid>
       <description>Hello was geht Hello 1, 2, 3</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://gcskoenig.github.io/posts/test-copy-6/</link>
+      <link>https://www.gunnarkoenig.com/posts/test-copy-6/</link>
       <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
       
-      <guid>https://gcskoenig.github.io/posts/test-copy-6/</guid>
+      <guid>https://www.gunnarkoenig.com/posts/test-copy-6/</guid>
       <description>Hello was geht Hello 1, 2, 3</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://gcskoenig.github.io/posts/test-copy-7/</link>
+      <link>https://www.gunnarkoenig.com/posts/test-copy-7/</link>
       <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
       
-      <guid>https://gcskoenig.github.io/posts/test-copy-7/</guid>
+      <guid>https://www.gunnarkoenig.com/posts/test-copy-7/</guid>
       <description>Hello was geht Hello 1, 2, 3</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://gcskoenig.github.io/posts/test-copy/</link>
+      <link>https://www.gunnarkoenig.com/posts/test-copy/</link>
       <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
       
-      <guid>https://gcskoenig.github.io/posts/test-copy/</guid>
+      <guid>https://www.gunnarkoenig.com/posts/test-copy/</guid>
       <description>Hello was geht Hello 1, 2, 3</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://gcskoenig.github.io/posts/test/</link>
+      <link>https://www.gunnarkoenig.com/posts/test/</link>
       <pubDate>Fri, 15 Apr 2022 23:57:51 +0200</pubDate>
       
-      <guid>https://gcskoenig.github.io/posts/test/</guid>
+      <guid>https://www.gunnarkoenig.com/posts/test/</guid>
       <description>Hello was geht Hello 1, 2, 3</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>https://gcskoenig.github.io/posts/post2/</link>
+      <link>https://www.gunnarkoenig.com/posts/post2/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://gcskoenig.github.io/posts/post2/</guid>
+      <guid>https://www.gunnarkoenig.com/posts/post2/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Hi! I&#39;m Gunnar.</title>
-      <link>https://gcskoenig.github.io/aboutme/</link>
+      <link>https://www.gunnarkoenig.com/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gcskoenig.github.io/aboutme/</guid>
+      <guid>https://www.gunnarkoenig.com/aboutme/</guid>
       <description>I am interested in the development of sustainable machine learning and its application for the societal good.
 I am a PhD Candidate with Prof. Moritz Grosse-Wentrup and Prof. Bernd Bischl with research interests causality and interpretable machine learning. I&amp;rsquo;m a founding member of ThinkTech (prev. ConsciousCoders) and contributed to the WeRePack initiative.
 Before, I did my M.Sc. Data Science at LMU Munich, funded by the elite network Bavaria and my Bachelor at TU Munich.</description>
@@ -101,10 +101,10 @@ Before, I did my M.Sc. Data Science at LMU Munich, funded by the elite network B
     
     <item>
       <title>Publications</title>
-      <link>https://gcskoenig.github.io/publications/</link>
+      <link>https://www.gunnarkoenig.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gcskoenig.github.io/publications/</guid>
+      <guid>https://www.gunnarkoenig.com/publications/</guid>
       <description>Papers 2021 Molnar, Christoph, et al.
 &amp;ldquo;Relating the Partial Dependence Plot and Permutation Feature Importance to the Data Generating Process.&amp;rdquo;
 arXiv preprint arXiv:2109.01433 (2021). [pdf]
@@ -120,10 +120,10 @@ König, Gunnar, et al.
     
     <item>
       <title>Teaching and Supervision</title>
-      <link>https://gcskoenig.github.io/teaching/</link>
+      <link>https://www.gunnarkoenig.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gcskoenig.github.io/teaching/</guid>
+      <guid>https://www.gunnarkoenig.com/teaching/</guid>
       <description>Teaching 2022 SS22: Advanced Machine Learning [course]
 SS22: Seminar Introduction to Causal Inference [course]
 2021 WS21: Seminar Philosophy and Explainable AI, jointly at MCMP and Statistics Departement, [course]
