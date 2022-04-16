@@ -1,5 +1,4 @@
 ---
-
 title: "Hi! I'm Gunnar."
 layout: "post"
 url: "/aboutme/"
