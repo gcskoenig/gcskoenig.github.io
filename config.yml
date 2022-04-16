@@ -1,4 +1,4 @@
-baseURL: 'https://gcskoenig.github.io'
+baseURL: 'https://www.gunnarkoenig.com'
 languageCode: 'en-us'
 theme: "PaperMod"
 title: 'Gunnar König'
@@ -6,8 +6,8 @@ publishdir: 'docs'
 
 menu:
     main:
-        - identifier: aboutme
-          name: aboutme
+        - identifier: about
+          name: about
           url: /aboutme/
           weight: 10
         - identifier: publications
