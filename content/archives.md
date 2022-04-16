@@ -1,9 +1,9 @@
 ---
 
-title: "Blog"
+title: "Archive"
 layout: "archives"
-url: "/blog/"
-summary: "archives"
+url: "/archive/"
+summary: "archive"
 draft: true
 
 ---
