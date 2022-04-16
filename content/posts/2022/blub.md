@@ -1,6 +1,6 @@
 ---
-title: "Math typesetting tests"
-date: 2022-04-16T11:30:03+00:00
+title: "MCR individualized"
+date: 2022-04-16T00:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
@@ -32,23 +32,18 @@ cover:
 #    URL: "https://github.com/<path_to_repo>/content"
 #    Text: "Suggest Changes" # edit text
 #    appendFilePath: true # to append file path to Edit link
-# math: true
 ---
 
+An action $a$ is $\gamma$-individually meaningful if 
 
+$$P(Y^{post}=1|do(a), x^{pre}) \geq \gamma$$ 
 
-## Can we typset with Hugo?
+The post-recourse predictor is
 
-Block math
+$$h^{*, ind}(x^{post}, x^{pre}, a) := P(Y^{post}=1|do(a), x^{pre}, x^{post})$$
 
-$$\phi := \pi_i + \varphi + \sum_{i=1}^n \frac{1}{1+ \frac{1}{1+n}}$$ 
+Then it holds for $\gamma$-meaningful action $a$ that 
 
+$$\mathbb{E}\left[h^{*, ind}(x^{post}, x^{pre}, a)|x^{pre}, a\right] = \gamma(a, x^{pre})$$
 
-
-So this $\phi$ here is great.
-
-
-
-## Conclusion
-
-It seems to work like a charm!
+Cool!
