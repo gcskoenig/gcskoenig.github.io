@@ -1,0 +1,49 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+theme: "PaperMod"
+title: 'Gunnar König'
+
+menu:
+    main:
+        - identifier: aboutme
+          name: aboutme
+          url: /aboutme/
+          weight: 10
+        - identifier: publications
+          name: publications
+          url: /publications/
+          weight: 20
+        - identifier: teaching
+          name: teaching
+          url: /teaching/
+          weight: 30
+        # - identifier: cv
+        #   name: cv
+        #   url: /cv/
+        #   weight: 40
+        # - identifier: blog
+        #   name: blog
+        #   url: /blog/
+        #   weight: 50
+
+params:
+    defaultTheme: auto
+    profileMode:
+        enabled: true
+        title: "Hi I'm Gunnar." # optional default will be site title
+        subtitle: "PhD Student, Causal Inference and XAI"
+        imageUrl: "https://www.slds.stat.uni-muenchen.de/images/gunnar.jpg" # optional
+        imageTitle: "Gunnar" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        # buttons: 
+        #     - name: Archive
+        #       url: "/archives"
+        #     - name: Github
+        #       url: "https://github.com/"
+
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/gcskoenig"
+        - name: "twitter"
+          url: "https://twitter.com/gcskoenig"
