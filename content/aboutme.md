@@ -13,7 +13,7 @@ I'm a founding member of [ThinkTech](https://www.thinktech.ngo/) (prev. Consciou
 
 Before, I did my [M.Sc. Data Science at LMU Munich](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html), funded by the elite network Bavaria and my Bachelor at TU Munich. Check out my [CV](/pdf/koenig-cv.pdf) for more details.
 
-You can reach me via `hello (at) gunnarkoenig.com`.
+You can reach me via `hello (at) gunnarkoenig.com`. My PGP public key can be downloaded [here](/keys/publickey.gunnar@koenig.page.asc).
 
 
 
