@@ -3,6 +3,7 @@ languageCode: 'en-us'
 theme: "PaperMod"
 title: 'Gunnar König'
 publishdir: 'docs'
+math: true
 
 menu:
     main:

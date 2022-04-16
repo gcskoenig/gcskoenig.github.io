@@ -12,3 +12,14 @@ I am a PhD Candidate with [Prof. Moritz Grosse-Wentrup](https://ni.cs.univie.ac.
 I'm a founding member of [ThinkTech](https://www.thinktech.ngo/) (prev. ConsciousCoders) and contributed to the [WeRePack](https://werepack.org/de/) initiative.
 
 Before, I did my [M.Sc. Data Science at LMU Munich](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/index.html), funded by the elite network Bavaria and my Bachelor at TU Munich. Check out my [CV](link).
+
+
+
+I like $\pi$
+
+
+
+And maths
+
+$$\sum_{i=1}^n x_i$$
+
