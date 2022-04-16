@@ -2,6 +2,7 @@ baseURL: 'https://gcskoenig.github.io'
 languageCode: 'en-us'
 theme: "PaperMod"
 title: 'Gunnar König'
+publishdir: 'docs'
 
 menu:
     main:
