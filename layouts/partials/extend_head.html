@@ -1,5 +1,6 @@
 {{- /* Head custom content area start */ -}}
 {{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
+{{ partial "analytics.html" }}
 {{ if or .Params.math .Site.Params.math }}
 {{ partial "math.html" . }}
 {{ end }}
