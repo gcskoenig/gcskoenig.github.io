@@ -49,4 +49,6 @@ params:
         - name: "github"
           url: "https://github.com/gcskoenig"
         - name: "twitter"
-          url: "https://twitter.com/gcskoenig"
+          url: "https://nitter.net/gcskoenig"
+        - name: "other"
+          url: "https://scholar.google.com/citations?user=THTbZ5EAAAAJ"
