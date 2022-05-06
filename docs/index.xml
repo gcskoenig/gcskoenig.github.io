@@ -5,26 +5,7 @@
     <link>https://gunnarkoenig.com/</link>
     <description>Recent content on Gunnar König</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://gunnarkoenig.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Math typesetting tests</title>
-      <link>https://gunnarkoenig.com/posts/2022/maths/</link>
-      <pubDate>Sat, 16 Apr 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://gunnarkoenig.com/posts/2022/maths/</guid>
-      <description>In this article, we test whether KaTeX Math typesetting works.</description>
-    </item>
-    
-    <item>
-      <title>MCR individualized</title>
-      <link>https://gunnarkoenig.com/posts/2022/blub/</link>
-      <pubDate>Sat, 16 Apr 2022 00:30:03 +0000</pubDate>
-      
-      <guid>https://gunnarkoenig.com/posts/2022/blub/</guid>
-      <description>In this article, we test whether KaTeX Math typesetting works.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://gunnarkoenig.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi! I&#39;m Gunnar.</title>
       <link>https://gunnarkoenig.com/aboutme/</link>

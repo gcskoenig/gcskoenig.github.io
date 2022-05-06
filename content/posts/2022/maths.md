@@ -5,11 +5,11 @@ date: 2022-04-16T11:30:03+00:00
 # aliases: ["/first"]
 tags: ["first"]
 author: "Me"
-categories: ['test']
+categories: ['test2']
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "In this article, we test whether KaTeX Math typesetting works."
