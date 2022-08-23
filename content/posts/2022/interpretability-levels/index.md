@@ -40,7 +40,7 @@ The goal of Interpretable Machine Learning (IML) is to provide human-intelligibl
 
 We illustrate the problem on a simple example: Suppose a practitioner aims to learn about the relevance of *in-store temperature* for *sales* at a petrol station. Therefore she fits a model on a sales dataset and computes the Partial Dependence Plot (PDP) for the temperature (Figure 1). 
 
-![Left: the data generating process, the corresponding causal graph. Right: The model's mechanism and the partial dependence plot for temperature.]()
+![Left: the data generating process, the corresponding causal graph. Right: The model's mechanism and the partial dependence plot for temperature.](pdp-dummy.jpg)
 
 Looking at the PDP output, she decides to turn up the theromstat in order to increase the sales. Her conclusion is not valid: In reality, increasing in-store temperature has a small negative causal effect on the sales.[^1] The reason is that the chosen method, PDP, is designed to provide insight into the model's mechanism, but in general does not allow insight into the effect of real-world actions.[^2]
 
@@ -49,7 +49,7 @@ In this article, we aid practicitioners to chose suitable IML tools and to avoid
 1. carefully choose the aspect of model and data that they are interested in and 
 2. to understand which IML descriptors are suitable for their task. 
 
-Therefore we present a taxonomy of the different aspects of model and data that may be of interest ({{< relref "#taxonomy:-aspects-of-model-and-data" >}}) and classify existing established IML methods within that taxonomy ({{< relref "#classification-of-common-iml-techniques" >}}). Thereby we focus on model-agnostic post-hoc interpretability methods that are designed for supervised learning scenarios with tabular data. [We do not distinguish between global/local etc].
+Therefore we present a taxonomy of the different aspects of model and data that may be of interest ([here]({{< relref "interpretability-levels.md#taxonomy-aspects-of-model-and-data" >}})) and classify existing established IML methods within that taxonomy ([here]({{< relref "interpretability-levels.md#classification-of-common-iml-techniques" >}})). Thereby we focus on model-agnostic post-hoc interpretability methods that are designed for supervised learning scenarios with tabular data. [We do not distinguish between global/local etc].
 
 [^1]: The learned model includes both the temperature in-store and the temperature back-room. Both variables are strongly correlated; in the model they cancel each other out, such that they do not contribute to the prediction on real-world data. However, for the PDP the correlation between the variables is broken, such that the variable has an effect and we cannot make conclusions about the correlations in the data. Furthermore, correlation is not causation.
 
@@ -65,14 +65,14 @@ To denote causal interventions we make use of the $do$-operator: to indicate tha
 
 # Taxonomy: Aspects of Model and Data
 
-As follows we introduce a taxonomy of model and data aspects. Therefore, we differentiate [..] along two axes:
+As follows we introduce a taxonomy of model and data aspects. Therefore, we differentiate [IML questions] along two axes:
 
 1. Which object do we aim to understand: the model's prediction, the underlying target or their relationship?
 2. On what level do we aim to understand: on the level of association, regarding data-level interventions or regarding model-level interventions?
 
 We visualize the differences on a schematic illustration of model in data, presented in Figure [..]. [Explain the element categories of the figure (nodes, arrows, boxes).] [Announce that we will guide through the figure and explain each element step by step].#
 
-![Image with a simple scenario which allows to distinguish all relevant aspects. Use the one from the IML lecture?](/Users/gcsk/Public/gcskoenig.github.io/static/img/posts/taxonomy/taxonomy-overview.jpg)
+![Image with a simple scenario which allows to distinguish all relevant aspects. Use the one from the IML lecture?](taxonomy-overview.jpg)
 
 ## What do we aim to understand?
 
