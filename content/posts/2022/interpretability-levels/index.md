@@ -9,7 +9,7 @@ author: "Gunnar König"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "I propose a taxonomy of the types of questions that IML methods can answer."

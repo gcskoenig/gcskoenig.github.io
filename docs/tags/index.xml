@@ -5,6 +5,25 @@
     <link>https://gunnarkoenig.com/tags/</link>
     <description>Recent content in Tags on Gunnar König</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://gunnarkoenig.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Apr 2022 00:30:03 +0000</lastBuildDate><atom:link href="https://gunnarkoenig.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>interpretability</title>
+      <link>https://gunnarkoenig.com/tags/interpretability/</link>
+      <pubDate>Sat, 16 Apr 2022 00:30:03 +0000</pubDate>
+      
+      <guid>https://gunnarkoenig.com/tags/interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taxonomy</title>
+      <link>https://gunnarkoenig.com/tags/taxonomy/</link>
+      <pubDate>Sat, 16 Apr 2022 00:30:03 +0000</pubDate>
+      
+      <guid>https://gunnarkoenig.com/tags/taxonomy/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,7 +5,17 @@
     <link>https://gunnarkoenig.com/</link>
     <description>Recent content on Gunnar König</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://gunnarkoenig.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Apr 2022 00:30:03 +0000</lastBuildDate><atom:link href="https://gunnarkoenig.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>If interpretability is the answer, what is the question?</title>
+      <link>https://gunnarkoenig.com/posts/2022/interpretability-levels/</link>
+      <pubDate>Sat, 16 Apr 2022 00:30:03 +0000</pubDate>
+      
+      <guid>https://gunnarkoenig.com/posts/2022/interpretability-levels/</guid>
+      <description>I propose a taxonomy of the types of questions that IML methods can answer.</description>
+    </item>
+    
     <item>
       <title>Hi! I&#39;m Gunnar.</title>
       <link>https://gunnarkoenig.com/aboutme/</link>
