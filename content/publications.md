@@ -15,9 +15,9 @@ König, Gunnar, Timo Freiesleben, and Moritz Grosse-Wentrup.\
 **"Improvement-Focused Causal Recourse"**\
 *arXiv preprint arXiv:2210.15709* (2022). [[pdf]](https://arxiv.org/pdf/2210.15709.pdf)
 
-Freiesleben, Timo, et al.
-**"Scientific Inference With Interpretable Machine Learning: Analyzing Models to Learn About Real-World Phenomena."**
-arXiv preprint arXiv:2206.05487 (2022).
+Freiesleben, Timo, et al.\
+**"Scientific Inference With Interpretable Machine Learning: Analyzing Models to Learn About Real-World Phenomena."**\
+arXiv preprint arXiv:2206.05487 (2022). [[pdf]](https://arxiv.org/pdf/2206.05487.pdf)
 
 ### 2021
 
