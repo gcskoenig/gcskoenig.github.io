@@ -13,6 +13,7 @@ url: "/publications/"
 
 König, Gunnar, Timo Freiesleben, and Moritz Grosse-Wentrup.\
 **"Improvement-Focused Causal Recourse"**\
+*forthcoming (AAAI '23)*
 *arXiv preprint arXiv:2210.15709* (2022). [[pdf]](https://arxiv.org/pdf/2210.15709.pdf)
 
 Freiesleben, Timo, et al.\
