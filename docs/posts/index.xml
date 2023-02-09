@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Gunnar König</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 00:30:03 +0000</lastBuildDate><atom:link href="https://gunnarkoenig.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 00:30:03 +0000</lastBuildDate><atom:link href="https://gunnarkoenig.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Improvement-Focused Causal Recourse (CR)</title>
+      <link>https://gunnarkoenig.com/posts/2023/icr-qr/</link>
+      <pubDate>Wed, 08 Feb 2023 00:30:03 +0000</pubDate>
+      
+      <guid>https://gunnarkoenig.com/posts/2023/icr-qr/</guid>
+      <description>Links for our AAAI paper on improvement-focused recourse.</description>
+    </item>
+    
     <item>
       <title>If interpretability is the answer, what is the question?</title>
       <link>https://gunnarkoenig.com/posts/2022/interpretability-levels/</link>
