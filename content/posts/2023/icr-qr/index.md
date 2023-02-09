@@ -1,5 +1,5 @@
 ---
-title: "Improvement-Focused Causal Recourse (CR)"
+title: "Improvement-Focused Causal Recourse (ICR)"
 date: 2023-02-08T00:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -36,5 +36,6 @@ ShowPostNavLinks: true
 
 You can find the paper [[here]](https://arxiv.org/abs/2210.15709).
 
-If you have any questions, feel free to reach out (hello@gunnarkoenig.com) or to join our poster session on Friday, Feb 10th. Our poster number is #201.
+Our poster session is on Friday, Feb 10th. Our poster number is #201.
 
+Feel free to reach out (hello@gunnarkoenig.com) -- we are at the conference until Saturday evening!
