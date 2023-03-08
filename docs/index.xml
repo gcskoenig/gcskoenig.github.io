@@ -42,17 +42,16 @@ Before, I did my M.Sc. Data Science at LMU Munich, funded by the elite network B
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gunnarkoenig.com/publications/</guid>
-      <description>Papers 2022 König, Gunnar, Timo Freiesleben, and Moritz Grosse-Wentrup.
+      <description>Publications Gunnar König, Timo Freiesleben, and Moritz Grosse-Wentrup.
 &amp;ldquo;Improvement-Focused Causal Recourse&amp;rdquo;
 forthcoming (AAAI &amp;lsquo;23)
 arXiv preprint arXiv:2210.15709 (2022). [pdf]
-Freiesleben, Timo, et al.
-&amp;ldquo;Scientific Inference With Interpretable Machine Learning: Analyzing Models to Learn About Real-World Phenomena.&amp;rdquo;
-arXiv preprint arXiv:2206.05487 (2022). [pdf]
-2021 Molnar, Christoph, et al.
-&amp;ldquo;Relating the Partial Dependence Plot and Permutation Feature Importance to the Data Generating Process.&amp;rdquo;
-arXiv preprint arXiv:2109.01433 (2021). [pdf]
-König, Gunnar, et al.</description>
+Christoph Luther*, Gunnar König* and Moritz Grosse-Wentrup
+&amp;ldquo;Efficient SAGE Estimation via Causal Structure Learning&amp;rdquo;
+forthcoming (AISTATS &amp;lsquo;23) [pdf]
+Christoph Molnar, Gunnar König, et al.
+&amp;ldquo;General pitfalls of model-agnostic interpretation methods for machine learning models.&amp;rdquo;
+xxAI-Beyond Explainable AI: International Workshop, Held in Conjunction with ICML 2020, July 18, 2020, Vienna, Austria, Revised and Extended Papers.</description>
     </item>
     
     <item>
