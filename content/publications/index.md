@@ -20,7 +20,7 @@ Christoph Luther\*, Gunnar König\* and Moritz Grosse-Wentrup\
 
 Christoph Molnar, Gunnar König, et al.\
 **"General pitfalls of model-agnostic interpretation methods for machine learning models."**\
-*xxAI-Beyond Explainable AI: International Workshop, Held in Conjunction with ICML  2020, July 18, 2020, Vienna, Austria, Revised and Extended Papers*. Cham: Springer International Publishing, (2022). [[pdf]](https://arxiv.org/pdf/2007.04131.pdf)
+*xxAI-Beyond Explainable AI: ICML Workshop, Revised and Extended Papers*. Cham: Springer International Publishing, (2022). [[pdf]](https://arxiv.org/pdf/2007.04131.pdf)
 
 Gunnar König, Christoph Molnar, Bernd Bischl, and Moritz Grosse-Wentrup\
 **"Relative feature importance."**\
