@@ -6,6 +6,7 @@ url: "/publications/"
 
 ---
 
+Please visit my [Google Scholar profile](https://scholar.google.de/citations?user=THTbZ5EAAAAJ&hl=de) for an up-to-date overview of my publications. 
 
 ## Publications
 
