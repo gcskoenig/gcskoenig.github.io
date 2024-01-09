@@ -34,8 +34,8 @@ params:
     profileMode:
         enabled: true
         title: "Hi, I'm Gunnar." # optional default will be site title
-        subtitle: "PostDoc @ University of Tübingen"
-        imageUrl: "/img/main/gunnar.jpeg" # optional
+        subtitle: "I'm a PostDoc at University of Tübingen working with Ulrike Luxburg. I'm broadly interested in trustworthy ML, currently with a focus on explainability and causality."
+        imageUrl: "/img/main/gunnar_mountains.jpg" # optional
         imageTitle: "Gunnar" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size

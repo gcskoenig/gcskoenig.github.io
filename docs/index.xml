@@ -36,22 +36,14 @@ I am a postdoc with Ulrike Luxburg at the University of Tübingen. Before that, 
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://gunnarkoenig.com/publications/</link>
+      <title>Research</title>
+      <link>https://gunnarkoenig.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gunnarkoenig.com/publications/</guid>
-      <description>Please visit my Google Scholar profile for an up-to-date overview of my publications.
-Publications Gunnar König, Timo Freiesleben, and Moritz Grosse-Wentrup.
-&amp;ldquo;Improvement-Focused Causal Recourse&amp;rdquo;
-forthcoming (AAAI &amp;lsquo;23)
-arXiv preprint arXiv:2210.15709 (2022). [pdf]
-Christoph Luther*, Gunnar König* and Moritz Grosse-Wentrup
-&amp;ldquo;Efficient SAGE Estimation via Causal Structure Learning&amp;rdquo;
-forthcoming (AISTATS &amp;lsquo;23) [pdf]
-Christoph Molnar, Gunnar König, et al.
-&amp;ldquo;General pitfalls of model-agnostic interpretation methods for machine learning models.&amp;rdquo;
-xxAI-Beyond Explainable AI: ICML Workshop, Revised and Extended Papers.</description>
+      <guid>https://gunnarkoenig.com/research/</guid>
+      <description>I am broadly interested in trustworthy ML, currently with a focus on explainability and causality.
+In my view, the field of explainability faces two fundamental challenges: First, explainability in itself is not a well-defined goal but rather conflates different incompatible subgoals. To make progress, the different subgoals must be disentangled. Second, explainability methods themselves are subject to interpretation, and their meaning is often misunderstood.
+Throughout my PhD, we demonstrated that a causal perspective helps tackle these challenges.</description>
     </item>
     
     <item>
