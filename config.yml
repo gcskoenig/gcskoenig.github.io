@@ -34,8 +34,8 @@ params:
     profileMode:
         enabled: true
         title: "Hi, I'm Gunnar." # optional default will be site title
-        subtitle: "PhD Student fascinated by Causal Inference and XAI"
-        imageUrl: "/img/main/gunnar.jpg" # optional
+        subtitle: "PostDoc @ University of Tübingen"
+        imageUrl: "/img/main/gunnar.jpeg" # optional
         imageTitle: "Gunnar" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
