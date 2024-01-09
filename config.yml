@@ -11,9 +11,9 @@ menu:
           name: about
           url: /aboutme/
           weight: 10
-        - identifier: publications
-          name: publications
-          url: /publications/
+        - identifier: research
+          name: research
+          url: /research/
           weight: 20
         - identifier: teaching
           name: teaching
