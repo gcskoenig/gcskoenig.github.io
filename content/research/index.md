@@ -12,7 +12,7 @@ In my view, the field of explainability faces two fundamental challenges: First,
 
 Throughout my PhD, we demonstrated that a causal perspective helps tackle these challenges. First, since many goals in the context of explainability are inherently causal, and thus we need causal language to formalize them. Second, since many explainability methods perform some form of intervention, and thus causality helps to derive interpretation rules. We specifically focused on understanding model-agnostic methods and their application for scientific inference and recourse.
 
-In my PostDoc, I plan to continue this line of research. I am especially interested in assessing the usefulness of explainability for model debugging, connections to information theory, understanding the long-term effects of recourse and making causal recourse methods more practicable. Feel free to reach out if you would like to exchange or collaborate!
+In my PostDoc, I plan to continue this line of research. Feel free to reach out if you would like to exchange or collaborate!
 
 ## Publications
 
