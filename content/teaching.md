@@ -10,6 +10,8 @@ url: "/teaching/"
 
 ## Teaching
 
+SS24: Seminar Explainable Machine Learning [[course]](https://www.tml.cs.uni-tuebingen.de/teaching/2024_seminar_explainability/index.php)
+
 WS22: Multivariate Statistics
 
 SS22: Advanced Machine Learning [[course]](https://moodle.lmu.de/course/view.php?id=20680)
