@@ -49,6 +49,6 @@ params:
         - name: "github"
           url: "https://github.com/gcskoenig"
         - name: "twitter"
-          url: "https://bsky.app/profile/gunnark.bsky.social"
+          url: "https://bsky.app/profile/gunnarkoenig.com"
         - name: "other"
           url: "https://scholar.google.com/citations?user=THTbZ5EAAAAJ"
