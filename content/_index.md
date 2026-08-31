@@ -6,4 +6,4 @@ I am a postdoctoral researcher at the *Tübingen AI Center*, working with Ulrike
 
 My research in explainable AI (XAI) revolves around three questions: Which conclusions do existing XAI methods allow, and under what assumptions? Given a particular explanation goal, such as algorithmic recourse or learning about the data, what should explanations look like to fulfil their purpose? And, importantly, how can we estimate them efficiently and accurately? I often use tools from causal inference to answer these questions.
 
-Lately, I have been asking these questions in the context of tabular foundation models. If you would like to exchange ideas or collaborate, feel free to [reach out](mailto:hello@gunnarkoenig.com).
+Lately, my focus has shifted towards foundation models, in particular explainable tabular foundation models. If you would like to exchange ideas or collaborate, feel free to [reach out](mailto:hello@gunnarkoenig.com).
