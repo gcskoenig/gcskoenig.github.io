@@ -7,7 +7,7 @@ disableKinds: ['taxonomy', 'term', 'RSS', 'section']
 
 params:
     role: 'Postdoctoral Researcher · Tübingen AI Center'
-    portrait: '/img/main/gunnar.jpeg'
+    portrait: '/img/main/gunnar_mountains.jpg'
     description: 'Gunnar König is a postdoctoral researcher at the Tübingen AI Center, working on explainable AI, causal inference, and foundation models.'
     links:
         - name: 'Google Scholar'
