@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Site.Title }}</title>
+<meta name="description" content="{{ .Site.Params.description }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:title" content="{{ .Site.Title }}">
+<meta property="og:description" content="{{ .Site.Params.description }}">
+<meta property="og:type" content="profile">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ .Site.Params.portrait | absURL }}">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-family='system-ui'>GK</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&display=swap">
+<style>
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:#FFFFFF;color:#0A0A0A;
+  font-family:"Archivo",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+  line-height:1.55;-webkit-font-smoothing:antialiased;
+}
+a{color:inherit;text-decoration:none}
+ol,ul{list-style:none;margin:0;padding:0}
+h1,h2,p{margin:0}
+
+.col{max-width:680px;margin:0 auto;padding:84px 32px 96px}
+
+.byline{display:flex;align-items:center;gap:15px}
+.avatar{
+  width:54px;height:54px;flex:0 0 54px;border-radius:50%;
+  object-fit:cover;object-position:50% 12%;display:block;background:#E8E8E8;
+}
+.name{font-size:25px;font-weight:700;letter-spacing:-.026em;line-height:1.1}
+.role{font-size:12.5px;color:#767676;margin-top:3px}
+
+.bio{margin-top:30px}
+.bio p{font-size:15.5px;line-height:1.72;color:#333333}
+.bio p + p{margin-top:18px}
+.bio em{font-style:normal;font-weight:500;color:#0A0A0A}
+
+.links{display:flex;flex-wrap:wrap;gap:18px;margin-top:24px;font-size:13.5px}
+.links a{color:#1A4FD6;font-weight:500}
+.links a:hover{text-decoration:underline}
+
+.sechead{margin-top:60px;padding-bottom:10px;border-bottom:1px solid #E5E5E5}
+.sechead h2{font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#767676}
+
+.pubs li{display:grid;grid-template-columns:46px 1fr;gap:18px;padding:20px 0;border-bottom:1px solid #EFEFEF}
+.yr{font-size:12px;color:#A8A8A8;padding-top:3px;font-weight:500;font-variant-numeric:tabular-nums}
+.t{font-size:16px;font-weight:600;line-height:1.36;letter-spacing:-.012em;margin-bottom:5px}
+.t a:hover{color:#1A4FD6;text-decoration:underline}
+.a{font-size:12.5px;color:#767676;line-height:1.5}
+.a strong{color:#0A0A0A;font-weight:600}
+.meta{margin-top:9px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.venue{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#1A4FD6}
+.note{font-size:11.5px;color:#A8A8A8}
+.pdf{font-size:12px;color:#1A4FD6;font-weight:500}
+.pdf:hover{text-decoration:underline}
+
+.foot{margin-top:44px;font-size:12.5px;color:#A8A8A8}
+.foot a{color:#767676}
+.foot a:hover{color:#1A4FD6;text-decoration:underline}
+
+a:focus-visible,.avatar:focus-visible{outline:2px solid #1A4FD6;outline-offset:3px;border-radius:2px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media (max-width:520px){
+  .col{padding:56px 22px 72px}
+  .pubs li{grid-template-columns:1fr;gap:4px}
+}
+</style>
+</head>
+<body>
+<main class="col">
+
+  <header class="byline">
+    <img class="avatar" src="{{ .Site.Params.portrait }}" alt="{{ .Site.Title }}" width="54" height="54">
+    <div>
+      <h1 class="name">{{ .Site.Title }}</h1>
+      <div class="role">{{ .Site.Params.role }}</div>
+    </div>
+  </header>
+
+  <div class="bio">{{ .Content }}</div>
+
+  <nav class="links">
+    {{ range .Site.Params.links }}<a href="{{ .url }}">{{ .name }}</a>{{ end }}
+  </nav>
+
+  <section>
+    <div class="sechead"><h2>Publications</h2></div>
+    <ol class="pubs">
+      {{ range hugo.Data.publications.items }}
+      <li>
+        <div class="yr">{{ .year }}</div>
+        <div>
+          <div class="t">{{ with .url }}<a href="{{ . }}">{{ end }}{{ .title }}{{ if .url }}</a>{{ end }}</div>
+          <div class="a">{{ replace .authors "G. König" "<strong>G. König</strong>" | safeHTML }}</div>
+          <div class="meta">
+            <span class="venue">{{ .venue }}</span>
+            {{ with .note }}<span class="note">{{ . }}</span>{{ end }}
+            {{ if .url }}<a class="pdf" href="{{ .url }}">{{ default "PDF" .linklabel }}</a>{{ end }}
+          </div>
+        </div>
+      </li>
+      {{ end }}
+    </ol>
+  </section>
+
+  <footer class="foot">
+    <a href="mailto:hello@gunnarkoenig.com">hello@gunnarkoenig.com</a> ·
+    <a href="/keys/publickey.gunnar@koenig.page.asc">PGP key</a>
+  </footer>
+
+</main>
+</body>
+</html>

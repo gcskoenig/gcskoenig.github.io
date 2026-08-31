@@ -1,54 +1,22 @@
 baseURL: 'https://gunnarkoenig.com'
-languageCode: 'en-us'
-theme: "PaperMod"
 title: 'Gunnar König'
 publishdir: 'docs'
-googleAnalytics: "UA-141772906-1"
 
-menu:
-    main:
-        - identifier: about
-          name: about
-          url: /aboutme/
-          weight: 10
-        - identifier: research
-          name: research
-          url: /research/
-          weight: 20
-        - identifier: teaching
-          name: teaching
-          url: /teaching/
-          weight: 30
-        # - identifier: cv
-        #   name: cv
-        #   url: /cv/
-        #   weight: 40
-        # - identifier: blog
-        #   name: blog
-        #   url: /blog/
-        #   weight: 50
+# Single-page site: one custom layout (layouts/index.html), no theme.
+disableKinds: ['taxonomy', 'term', 'RSS', 'section']
 
 params:
-    defaultTheme: auto
-    math: true
-    profileMode:
-        enabled: true
-        title: "Hi, I'm Gunnar." # optional default will be site title
-        subtitle: "I'm a PostDoc at University of Tübingen working with Ulrike Luxburg. I'm broadly interested in trustworthy ML, currently with a focus on explainability and causality."
-        imageUrl: "/img/main/gunnar_mountains.jpg" # optional
-        imageTitle: "Gunnar" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
-        # buttons: 
-        #     - name: Archive
-        #       url: "/archives"
-        #     - name: Github
-        #       url: "https://github.com/"
-
-    socialIcons: # optional
-        - name: "github"
-          url: "https://github.com/gcskoenig"
-        - name: "twitter"
-          url: "https://bsky.app/profile/gunnarkoenig.com"
-        - name: "other"
-          url: "https://scholar.google.com/citations?user=THTbZ5EAAAAJ"
+    role: 'Postdoctoral Researcher · Tübingen AI Center'
+    portrait: '/img/main/gunnar.jpeg'
+    description: 'Gunnar König is a postdoctoral researcher at the Tübingen AI Center, working on explainable AI, causal inference, and foundation models.'
+    links:
+        - name: 'Google Scholar'
+          url: 'https://scholar.google.com/citations?user=THTbZ5EAAAAJ'
+        - name: 'GitHub'
+          url: 'https://github.com/gcskoenig'
+        - name: 'Bluesky'
+          url: 'https://bsky.app/profile/gunnarkoenig.com'
+        - name: 'CV'
+          url: '/pdf/koenig-cv.pdf'
+        - name: 'Dissertation'
+          url: '/pdf/diss_koenig_digital.pdf'

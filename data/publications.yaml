@@ -1,0 +1,98 @@
+# Publication list for the homepage. Newest first; the page renders them in
+# this order. `url` and `linklabel` are optional - omit both for entries with
+# no public link yet.
+items:
+  - year: 2026
+    title: "We need explanation cards to connect explanation algorithms to the real world"
+    authors: "E. Günther, B. Szabados, K. Meding, G. König, S. Bordt, U. von Luxburg"
+    venue: "arXiv:2606.16786"
+    url: "https://arxiv.org/abs/2606.16786"
+    linklabel: "arXiv"
+
+  - year: 2026
+    title: "Validity threats for foundation model research"
+    authors: "G. König, M. Pawelczyk, U. von Luxburg, S. Bordt"
+    venue: "arXiv:2606.05029"
+    url: "https://arxiv.org/abs/2606.05029"
+    linklabel: "arXiv"
+
+  - year: 2026
+    title: "Explainable AI isn't enough! Rethinking algorithmic contestability"
+    authors: "T. Freiesleben, K. Meding, G. König"
+    venue: "arXiv:2605.16041"
+    url: "https://arxiv.org/abs/2605.16041"
+    linklabel: "arXiv"
+
+  - year: 2025
+    title: "Performative validity of recourse explanations"
+    authors: "G. König, H. Fokkema, T. Freiesleben, C. Mendler-Dünner, U. von Luxburg"
+    venue: "NeurIPS"
+
+  - year: 2025
+    title: "Disentangling interactions and dependencies in feature attribution"
+    authors: "G. König*, E. Günther*, U. von Luxburg"
+    venue: "AISTATS"
+    note: "Equal contribution"
+
+  - year: 2024
+    title: "A guide to feature importance methods for scientific inference"
+    authors: "F. K. Ewald, L. Bothmann, M. N. Wright, B. Bischl, G. Casalicchio, G. König"
+    venue: "XAI"
+
+  - year: 2024
+    title: "CountARFactuals — generating plausible model-agnostic counterfactual explanations with adversarial random forests"
+    authors: "G. König*, S. Dandl*, K. Blesch*, T. Freiesleben*, J. Kapar, B. Bischl, M. N. Wright"
+    venue: "XAI"
+    note: "Equal contribution"
+
+  - year: 2024
+    title: "Scientific inference with interpretable machine learning: analyzing models to learn about real-world phenomena"
+    authors: "T. Freiesleben, G. König, C. Molnar, A. Tejero-Cantero"
+    venue: "Minds and Machines"
+
+  - year: 2024
+    title: "Model-agnostic feature importance and effects with dependent features: a conditional subgroup approach"
+    authors: "C. Molnar, G. König, B. Bischl, G. Casalicchio"
+    venue: "Data Mining and Knowledge Discovery"
+
+  - year: 2023
+    title: "Improvement-focused causal recourse (ICR)"
+    authors: "G. König, T. Freiesleben, M. Grosse-Wentrup"
+    venue: "AAAI"
+    note: "Oral presentation"
+    url: "/pdf/publications/icr-fullpaper.pdf"
+    linklabel: "PDF"
+
+  - year: 2023
+    title: "Efficient SAGE estimation via causal structure learning"
+    authors: "G. König*, C. Luther*, M. Grosse-Wentrup"
+    venue: "AISTATS"
+    note: "Equal contribution"
+    url: "/pdf/publications/dsage-fullpaper.pdf"
+    linklabel: "PDF"
+
+  - year: 2023
+    title: "Dear XAI community, we need to talk! Fundamental misconceptions in current XAI research"
+    authors: "T. Freiesleben, G. König"
+    venue: "XAI"
+
+  - year: 2023
+    title: "Relating the partial dependence plot and permutation feature importance to the data-generating process"
+    authors: "G. König*, C. Molnar*, T. Freiesleben*, J. Herbinger, T. Reisinger, G. Casalicchio, M. N. Wright, B. Bischl"
+    venue: "XAI"
+    note: "Equal contribution"
+
+  - year: 2022
+    title: "General pitfalls of model-agnostic interpretation methods for machine learning models"
+    authors: "C. Molnar, G. König, J. Herbinger, T. Freiesleben, S. Dandl, C. A. Scholbeck, G. Casalicchio, M. Grosse-Wentrup, B. Bischl"
+    venue: "xxAI — Beyond Explainable AI, Springer"
+
+  - year: 2021
+    title: "Relative feature importance"
+    authors: "G. König, C. Molnar, B. Bischl, M. Grosse-Wentrup"
+    venue: "ICPR"
+
+  - year: 2021
+    title: "A causal perspective on meaningful and robust algorithmic recourse"
+    authors: "G. König, T. Freiesleben, M. Grosse-Wentrup"
+    venue: "ICML Workshop on Algorithmic Recourse"
