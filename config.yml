@@ -18,5 +18,3 @@ params:
           url: 'https://bsky.app/profile/gunnarkoenig.com'
         - name: 'CV'
           url: '/pdf/koenig-cv.pdf'
-        - name: 'Dissertation'
-          url: '/pdf/diss_koenig_digital.pdf'

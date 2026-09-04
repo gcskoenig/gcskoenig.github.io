@@ -56,6 +56,13 @@ items:
     venue: "Data Mining and Knowledge Discovery"
 
   - year: 2023
+    title: "If interpretability is the answer, what is the question?"
+    authors: "G. König"
+    venue: "PhD thesis, LMU Munich"
+    url: "/pdf/diss_koenig_digital.pdf"
+    linklabel: "PDF"
+
+  - year: 2023
     title: "Improvement-focused causal recourse (ICR)"
     authors: "G. König, T. Freiesleben, M. Grosse-Wentrup"
     venue: "AAAI"
