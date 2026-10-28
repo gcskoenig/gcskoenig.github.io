@@ -5,7 +5,7 @@ items:
   - year: 2026
     title: "We need explanation cards to connect explanation algorithms to the real world"
     authors: "E. Günther, B. Szabados, K. Meding, G. König, S. Bordt, U. von Luxburg"
-    venue: "arXiv:2606.16786"
+    venue: "AIES"
     url: "https://arxiv.org/abs/2606.16786"
     linklabel: "arXiv"
 
@@ -19,7 +19,7 @@ items:
   - year: 2026
     title: "Explainable AI isn't enough! Rethinking algorithmic contestability"
     authors: "T. Freiesleben, K. Meding, G. König"
-    venue: "arXiv:2605.16041"
+    venue: "AIES"
     url: "https://arxiv.org/abs/2605.16041"
     linklabel: "arXiv"
 
