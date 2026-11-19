@@ -44,6 +44,7 @@
             <span class="venue">{{ .venue }}</span>
             {{ with .note }}<span class="note">{{ . }}</span>{{ end }}
             {{ if .url }}<a class="pdf" href="{{ .url }}">{{ default "PDF" .linklabel }}</a>{{ end }}
+            {{ with .award }}<span class="note">{{ . }}</span>{{ end }}
           </div>
         </div>
       </li>
